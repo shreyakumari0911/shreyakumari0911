@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Personal Website Preview](portfolio.png)
+
 
 Welcome to my GitHub profile! I'm Shreya, and I'm excited to have you here. Here's a bit about me:
 
@@ -9,7 +9,12 @@ Welcome to my GitHub profile! I'm Shreya, and I'm excited to have you here. Here
 - 👯 I’m looking to collaborate on **Open Source Projects** and **Internships**.
 - 💬 Feel free to ask me about **Web Development**!
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/shreya-k-955819221/)
-- 🌐 Personal Website: [Portfolio](https://inquisitive-moxie-46e9e2.netlify.app)
+- 🌐 **Personal Website**: A portfolio website showcasing my skills, projects, and blog.
+  ![Personal Website Preview](portfolio.png)
+  [Visit Here](https://inquisitive-moxie-46e9e2.netlify.app)
+- 🛠️ **E-commerce Platform**: A e-commerce application.
+    ![Personal Website Preview](ecommerceWebsite.png)
+    [Visit Here](https://famous-platypus-8922b2.netlify.app/)
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: I'm a **fitness freak**! 🏋️‍♀️
 
