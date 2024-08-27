@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Personal Website Preview](images/portfolio.png)
+![Personal Website Preview](portfolio.png)
 
 Welcome to my GitHub profile! I'm Shreya, and I'm excited to have you here. Here's a bit about me:
 
