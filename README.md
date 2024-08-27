@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![Personal Website Preview](images/personal-website.png)
 Welcome to my GitHub profile! I'm Shreya, and I'm excited to have you here. Here's a bit about me:
 
 - 🔭 I’m currently working as a **Web Developer**.
