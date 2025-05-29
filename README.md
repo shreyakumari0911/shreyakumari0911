@@ -13,8 +13,8 @@ Welcome to my GitHub profile! I'm Shreya, and I'm excited to have you here. Here
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/shreya-k-955819221/)
 - 🌐 **Personal Website**: A portfolio website showcasing my skills, projects, and blog.
 
-  ![Personal Website Preview](portfolio.png)
-  [Visit Here](https://inquisitive-moxie-46e9e2.netlify.app)
+  ![Personal Website Preview](Screenshot 2025-05-29 091051.png)
+  [Visit Here](https://shreyaportfolio0911.netlify.app/)
 
 - 🛠️ **E-commerce Platform**: A e-commerce application.
   
