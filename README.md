@@ -18,8 +18,9 @@ Welcome to my GitHub profile! I'm Shreya, and I'm excited to have you here. Here
 
 - 🛠️ **E-commerce Platform**: A e-commerce application.
   
-    ![Personal Website Preview](ecommerceWebsite.png)
-    [Visit Here](https://famous-platypus-8922b2.netlify.app/)
+    ![Personal Website Preview](![image](https://github.com/user-attachments/assets/75fce5be-015d-4602-b802-f0bce4efd7ab)
+)
+    [Visit Here](https://shreyaportfolio0911.netlify.app/)
 
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: I'm a **fitness freak**! 🏋️‍♀️
