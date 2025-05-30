@@ -1,10 +1,6 @@
 <h1 align="center">
   Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /> I'm Shreya Kumari
 </h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F768C2&center=true&width=435&lines=Cloud+Dev+%7C+Web+Dev+%7C+Problem+Solver;I+love+building+beautiful+UIs+and+useful+APIs;Welcome+to+my+tech+space!+💜" alt="Typing SVG" />
-</p>
   <a href="https://github.com/shreyakumari0911">
     <img src="https://api.visitorbadge.io/api/VisitorHit?user=shreyakumari0911&countColor=%237B1E7A" alt="visitor badge"/>
   </a>
