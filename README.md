@@ -57,7 +57,7 @@ A full-stack e-commerce platform built using React.js and Spring Boot.
   <br />
   <img src="https://streak-stats.demolab.com?user=shreyakumari0911&theme=radical" alt="GitHub Streak" />
   <br />
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=shreyakumari0911&theme=tokyo-night" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyakumari0911&theme=tokyo-night" alt="Activity Graph" />
 </p>
 
 ---
