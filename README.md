@@ -21,6 +21,16 @@ Welcome to my GitHub profile! I'm Shreya, and I'm excited to have you here. Here
 ![Personal Website Preview](ecommerceWebsite.png)
 [Visit Here](https://famous-platypus-8922b2.netlify.app/)
 
+## 📊 GitHub Stats
+
+![Shreya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyakumari0911&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyakumari0911&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=shreyakumari0911&theme=radical)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=shreyakumari0911&theme=tokyo-night)
+
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: I'm a **fitness freak**! 🏋️‍♀️
 
